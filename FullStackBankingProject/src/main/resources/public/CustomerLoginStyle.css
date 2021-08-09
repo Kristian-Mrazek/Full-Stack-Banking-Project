@@ -1,0 +1,69 @@
+@charset "ISO-8859-1";
+
+body {
+	background-image: url("https://media.istockphoto.com/photos/blue-abstract-background-or-texture-picture-id1138395421?k=6&m=1138395421&s=612x612&w=0&h=bJ1SRWujCgg3QWzkGPgaRiArNYohPl7-Wc4p_Fa_cyA=");
+	text-align: center;
+	vertical-align: middle;
+}
+
+form {
+	width: 60%;
+	display: inline-block;
+	margin: auto;
+}
+
+.login {
+	width: 30%;
+	height: 50%;
+	background: #ffffff;
+	border-radius: 15px;
+	margin: auto;
+	margin-top: 15%;
+}
+
+.main {
+	width: 50%;
+	height: 70%;
+	background: #ffffff;
+	border-radius: 15px;
+	margin: auto;
+	margin-top: 10%;
+}
+
+.deposit-withdraw {
+	width: 50%;
+	height: 80%;
+	background: #ffffff;
+	border-radius: 15px;
+	margin: auto;
+	margin-top: 10%;
+}
+
+.panel {
+	width: 50%;
+	height: 80%;
+	margin: auto;
+	margin-top: 10%;
+}
+
+.my-custom-scrollbar {
+	position: relative;
+	height: 200px;
+	overflow: auto;
+}
+.table-wrapper-scroll-y {
+	display: block;
+}
+
+label {
+	float: left;
+}
+
+button {
+	float: left;
+}
+
+a {
+	float: right;
+	color: navy;
+}
